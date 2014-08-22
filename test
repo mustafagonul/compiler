@@ -1,0 +1,8 @@
+int main()
+{
+	int a1 = 0;
+	int a2 = 002;
+	int a3 = 0x001;
+	type<TYPE> t;
+	void b;
+}
